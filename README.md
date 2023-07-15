@@ -8,6 +8,7 @@ Main features:
 - Search in history
 
 Technologies used:
+- Kotlin
 - MVVM
 - App modularization
 - Kotlin DSL
